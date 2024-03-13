@@ -8,7 +8,7 @@ To run the project locally, make sure you have [.NET Core SDK](https://dotnet.mi
 
 ## Usage
 
-1. Copy the solution package and place it in an appropriate folder path.
+1. Unzip the solution package and place it in an appropriate folder path.
 
 2. Check if the startup project is set to CurrencyConverterAPI, if not please do the same.
 
